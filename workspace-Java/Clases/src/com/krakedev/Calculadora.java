@@ -3,7 +3,7 @@ package com.krakedev;
 public class Calculadora {
 	
 	private int sumar(int valor1,int valor2) {
-		int resultado;//declarar la variable
+		int resultado;
 		resultado=valor1+valor2;
 		return resultado;
 	}
