@@ -6,7 +6,7 @@ public class TestProducto {
 		Productos productoA;
 		Productos productoB;
 		Productos productoC;
-		productoA = new Productos();
+		productoA = new Productos("Curita");
 		productoA.setNombre("Curitas");
 		productoA.setDescripcion("Es una pequena tira adhesiva con un aposito esteril en el centro");
 		productoA.setPrecio(0.15);
@@ -16,7 +16,7 @@ public class TestProducto {
 		System.out.println("Precio:" + productoA.getPrecio());
 		System.out.println("stockActual: " + productoA.getStockActual());
 		System.out.println("--------------------");
-		productoB = new Productos();
+		productoB = new Productos("Jarabe","Solucion liquida");
 		productoB.setNombre("Jarabe para la tos");
 		productoB.setDescripcion("Solucion liquida que se administra por via oral para tratar diferentes tipos de tos");
 		productoB.setPrecio(1.50);
@@ -26,7 +26,7 @@ public class TestProducto {
 		System.out.println("Precio: " + productoB.getPrecio());
 		System.out.println("stockActual: " + productoB.getStockActual());
 		System.out.println("--------------------");
-		productoC = new Productos();
+		productoC = new Productos("Pastillas anticonceptivas","Son un método seguro",2.50);
 		productoC.setNombre("Pastillas anticonceptivas");
 		productoC.setDescripcion("Son un método seguro y efectivo para evitar temporalmente el embarazo");
 		productoC.setPrecio(2.50);
