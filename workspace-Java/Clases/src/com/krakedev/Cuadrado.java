@@ -17,10 +17,6 @@ public class Cuadrado {
         this.lado = lado;
     }
 
-    private int getLadoInterno() {
-        return lado;
-    }
-
     public double obtenerArea(int lado) {
         setLadoInterno(lado);
         return calcularArea();
