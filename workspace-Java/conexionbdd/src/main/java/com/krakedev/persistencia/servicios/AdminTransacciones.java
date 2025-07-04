@@ -2,12 +2,15 @@ package com.krakedev.persistencia.servicios;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Time;
+import java.util.ArrayList;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import com.krakedev.persistencia.entidades.Persona;
 import com.krakedev.persistencia.entidades.Transacciones;
 import com.krakedev.presistencia.utils.ConexionBDD;
 
@@ -91,5 +94,5 @@ public class AdminTransacciones {
 			}
 		}
 	}
-
+	
 }
