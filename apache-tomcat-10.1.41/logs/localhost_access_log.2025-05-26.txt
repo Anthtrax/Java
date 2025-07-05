@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:43 -0500] "GET /Proyecto/Proyecto.html HTTP/1.1" 200 5390
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:43 -0500] "GET /Proyecto/Proyecto.css HTTP/1.1" 200 5025
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:43 -0500] "GET /Proyecto/Proyecto.js HTTP/1.1" 200 3636
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:43 -0500] "GET /Proyecto/Proyecto2.jpg HTTP/1.1" 200 150239
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:43 -0500] "GET /Proyecto/Escudo-removebg-preview.png HTTP/1.1" 200 292687
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:43 -0500] "GET /Proyecto/Proyecto4.jpg HTTP/1.1" 200 99579
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:43 -0500] "GET /Proyecto/Proyecto1.jpg HTTP/1.1" 200 116189
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:43 -0500] "GET /Proyecto/Proyecto3.jpg HTTP/1.1" 200 12217
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:43 -0500] "GET /Proyecto/Fondo.jpg HTTP/1.1" 200 73574
+0:0:0:0:0:0:0:1 - - [26/May/2025:13:17:44 -0500] "GET /favicon.ico HTTP/1.1" 200 21630
